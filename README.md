@@ -1,2 +1,2 @@
 Database : MySQL
-Labguage : JAVA
+Language : JAVA
